@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-s67-landscape-experience-seminar-in-land-art-fall-2016/6cc58155bea365ac973e20e7cd55af37_MIT4_S67F16_bus.jpg
+file: /media/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/6cc58155bea365ac973e20e7cd55af37_MIT4_S67F16_bus.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: MIT4_S67F16_bus.jpg
 uid: 6cc58155-bea3-65ac-973e-20e7cd55af37

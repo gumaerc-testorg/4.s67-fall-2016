@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-s67-landscape-experience-seminar-in-land-art-fall-2016/c7f5a5e6069ea506480a33621528754c_Chinati-complex.jpg
+file: /media/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/c7f5a5e6069ea506480a33621528754c_Chinati-complex.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Donald Judd details at Marfa. The visit included a tour of the Chinati
@@ -9,6 +9,10 @@ image_metadata:
   credit: ''
   image-alt: A photo of a window located in an old wool factory inside of the Chinati
     complex.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Teaching a Similar Course in Different Settings
+parent_type: CourseSection
 resourcetype: Image
 title: Chinati-complex.jpg
 uid: c7f5a5e6-069e-a506-480a-33621528754c

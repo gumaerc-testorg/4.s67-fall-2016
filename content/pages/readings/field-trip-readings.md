@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 3c87a5f4-d5c7-efc8-70f0-9230ac312605
 title: Field Trip Readings
 uid: 2f8808fd-883e-d6a9-21d4-1a3576060ba5

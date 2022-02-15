@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 ---
@@ -52,20 +54,6 @@ Elective
 ### Offered
 
 Not offered regularly
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with moveable tables and chairs with a seating capacity of 18 and an A/V system.]({{< resource_file 64823714-5c48-c5b5-31fb-4c03988d65fc >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom with a seating capacity of 18. The room featured moveable tables and chairs, along with an A/V system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

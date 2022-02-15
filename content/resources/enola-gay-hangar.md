@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-s67-landscape-experience-seminar-in-land-art-fall-2016/ad0380a726a8e117199e8d6e5757e003_Enola-Gay-Hangar.jpg
+file: /media/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/ad0380a726a8e117199e8d6e5757e003_Enola-Gay-Hangar.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The Enola Gay "hangar," CLUI research center, and Wendover, Utah visit
@@ -9,6 +9,10 @@ image_metadata:
   credit: ''
   image-alt: 'The Enola Gay "hangar," CLUI research center, and Wendover, Utah visit
     with Matthew Coolidge (CLUI). '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Field Trip Itinerary
+parent_type: CourseSection
 resourcetype: Image
 title: Enola-Gay-Hangar.jpg
 uid: ad0380a7-26a8-e117-199e-8d6e5757e003
