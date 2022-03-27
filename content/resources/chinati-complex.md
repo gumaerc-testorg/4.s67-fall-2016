@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Chinati-complex.jpg
 uid: c7f5a5e6-069e-a506-480a-33621528754c

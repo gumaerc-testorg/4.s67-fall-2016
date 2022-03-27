@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection
+parent_uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 resourcetype: Image
 title: double-negative.jpg
 uid: 4899375b-4332-edb9-f2cf-c7fac94eac59

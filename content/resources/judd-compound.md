@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Judd-compound.jpg
 uid: e73d44a1-845f-f101-b866-23e9c7ae9139

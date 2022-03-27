@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection
+parent_uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 resourcetype: Image
 title: sun-tunnels.jpg
 uid: 42d90b87-45fe-e18d-0712-8576c1666ef7

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Student Projects
 parent_type: CourseSection
+parent_uid: 85296620-ef15-ea8f-1917-f34de1a7423f
 resourcetype: Image
 title: MIT4_S67F16_sky.jpg
 uid: f4391ef8-dfdc-9858-57a3-6e6f9228defc
