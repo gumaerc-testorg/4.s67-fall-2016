@@ -10,7 +10,7 @@ title: Field Trip Readings
 uid: 2f8808fd-883e-d6a9-21d4-1a3576060ba5
 ---
 
-Below is a list of readings for the optional field trip to visit major works of land art in Utah, Arizona, New Mexico and Texas during the summer preceding the term. For related films, see the [Bibliography]({{< baseurl >}}/pages/bibliography).
+Below is a list of readings for the optional field trip to visit major works of land art in Utah, Arizona, New Mexico and Texas during the summer preceding the term. For related films, see the {{< resource_link 1dadf207-e220-2fe5-bd05-5c83b01c65da "Bibliography" >}}.
 
 \[AA\] = Schipsi, Lauren and Josef Helfenstein, eds. _Art and Activism: Projects of John and Dominique de Menil_. The Menil Collection, 2010. ISBN: 9780300123777.
 
