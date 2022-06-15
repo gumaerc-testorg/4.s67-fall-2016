@@ -1,15 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _4.S67 Landscape Experience: Seminar in Land/Art_ as it was taught by Dr. Rebecca K. Uchill and Professor Caroline Jones in Fall 2016.
 
@@ -19,30 +19,27 @@ Students had the opportunity to participate in a pre-term field trip to experien
 
 A final research paper or project equivalent was the capstone of the course.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 _Course Goals for Students_
 
-*   Understand that landscape is everywhere, and is a construct of our (and others’) subjectivities.
-*   Understand that "landscape" is both contested and political.
-*   Use immersive fieldwork to reflect on the kinds of sensorial experiences that allow us to know something as a landscape.
-*   Explore how the work of artists, architects, and writers on art and architectural theory can offer rich insights into the tangled nexus of phenomenology, pilgrimage, and property development that has been conjured by landscape, in history and at present.
+- Understand that landscape is everywhere, and is a construct of our (and others’) subjectivities.
+- Understand that "landscape" is both contested and political.
+- Use immersive fieldwork to reflect on the kinds of sensorial experiences that allow us to know something as a landscape.
+- Explore how the work of artists, architects, and writers on art and architectural theory can offer rich insights into the tangled nexus of phenomenology, pilgrimage, and property development that has been conjured by landscape, in history and at present.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "Documentation can't convey the full contours of experiences—the wind, the smells, the scale, the memories, and so on." "—Dr. Rebecca Uchill" >}}
 
 _In the following pages, Dr. Rebecca Uchill describes various aspects of how she taught_ 4.S67 Landscape Experience: Seminar in Land/Art.
 
-*   {{< resource_link ef5df0b9-b80f-a147-78fd-4db84bf871e1 "Curricular Objectives" >}}
-*   {{< resource_link 9090fc69-c928-1870-cc73-b26dea0b96d2 "Teaching a Similar Course in Different Settings" >}}
+- {{% resource_link ef5df0b9-b80f-a147-78fd-4db84bf871e1 "Curricular Objectives" %}}
+- {{% resource_link 9090fc69-c928-1870-cc73-b26dea0b96d2 "Teaching a Similar Course in Different Settings" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -58,18 +55,18 @@ Not offered regularly
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
 - 25% Participation (including seminar presentations and MIT List Visual Arts Center lecture presentations)
 - 75% Capstone project (proposal, in-class presentation, final write-up)
 
-Student Information
--------------------
+## Student Information
 
-![Twelve students took this course in the fall of 2016.]({{< resource_file 289e6c8e-ca09-f388-274a-59a090c6c85c >}})
+### Enrollment
+
+12 students
 
 ### Breakdown by Year
 
@@ -77,23 +74,20 @@ Mostly graduate students
 
 ### Breakdown by Major
 
-Mostly the [MIT Program in Art, Technology, and Culture](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/architecture-and-urbanism/degree/march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/discipline/history-theory-and-criticism) (HTC)
+Mostly the [MIT Program in Art, Culture, and Technology](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/architecture-and-urbanism/degree/march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/discipline/history-theory-and-criticism) (HTC)
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 3 hours per session; 12 sessions total; mandatory attendance.
-*   Students were assigned specific weeks in which they worked as a team to present a guiding question or questions to tie together the assigned readings and to orient the class discussions.
-*   The List Visual Arts Center annual [Lavine Lecture](https://listart.mit.edu/events-programs/public-program-lavine-lecture) was programmed in explicit connection with the course and students worked together to create a visually dynamic 10-minute presentation during the public lecture.
+- Met 1 time per week for 3 hours per session; 12 sessions total; mandatory attendance.
+- Students were assigned specific weeks in which they worked as a team to present a guiding question or questions to tie together the assigned readings and to orient the class discussions.
+- The List Visual Arts Center annual [Lavine Lecture](https://listart.mit.edu/events-programs/public-program-lavine-lecture) was programmed in explicit connection with the course and students worked together to create a visually dynamic 10-minute presentation during the public lecture.
 
-Out of Class
-------------
+### Out of Class
 
 Students completed assigned readings, prepared for in-class presentations and the Lavine lecture, and worked on their capstone projects.
