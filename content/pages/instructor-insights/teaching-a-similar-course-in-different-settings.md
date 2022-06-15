@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'In this section Dr. Rebecca Uchill discusses her hope that educators
+  will teach courses similar to 4.S67 Landscape Experience: Seminar in Land/Art in
+  different settings. She suggests two models for developing field-based land art
+  and landscape courses. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

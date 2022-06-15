@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section Dr. Rebecca Uchill shares what she hoped the curriculum\
+  \ in 4.S67 Landscape Experience: Seminar in Land/Art would accomplish\u2014for both\
+  \ students and a wider audience."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
