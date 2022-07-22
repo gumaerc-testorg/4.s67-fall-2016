@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the itinerary and agenda for the optional course
+  field trip.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Field Trip Itinerary
 uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 ---
@@ -173,7 +177,7 @@ _Car 2 Schedule:_
 *   Optional lunch with Rice School of Architecture Dean Sarah Whiting (sign up)
 *   2-3:30 - Project Row Houses
 
-![MIT4_S67F16_bus.jpg]({{< resource_file 6cc58155-bea3-65ac-973e-20e7cd55af37 >}})
+{{< resource 6cc58155-bea3-65ac-973e-20e7cd55af37 >}}
 
 Students made a documentary of the field trip, _[Travelogue of the Undocumentable](https://youtu.be/aP4PWnEzFPQ)_.
 
@@ -181,7 +185,7 @@ Image Gallery: Land Art and Landscapes from the Optional Course Field Trip
 --------------------------------------------------------------------------
 
 All photos courtesy of Jessica Varner and used with permission.
-{{< image-gallery id="28aab836-07e4-0021-a34c-6b996eaa6b30_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-s67-landscape-experience-seminar-in-land-art-fall-2016/" >}}
+{{< image-gallery id="28aab836-07e4-0021-a34c-6b996eaa6b30_nanogallery2" baseUrl="/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/" >}}
 {{< image-gallery-item href="d19c5610c737ee7bb91403b4bd9506b6_spiral-jetty.jpg" data-ngdesc="New image Upload" text="Spiral Jetty (Robert Smithson, 1970)" >}}
 {{< image-gallery-item href="9f5766a0ad57f51de5d1164356a7704e_spiral-jetty2.jpg" data-ngdesc="New image Upload" text="Spiral Jetty (Robert Smithson, 1970)" >}}
 {{< image-gallery-item href="42d90b8745fee18d07128576c1666ef7_sun-tunnels.jpg" data-ngdesc="New image Upload" text="Sun Tunnels (Nancy Holt, 1973)" >}}

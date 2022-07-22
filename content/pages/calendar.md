@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a list of course topics along with key dates for
+  assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9e928640-e540-1eee-21bb-d5f551a894b2
 ---
@@ -51,7 +55,7 @@ Out to Work: Landscape-Labor-Commodity
 {{< tdopen >}}
 _MIT holiday_, no formal class meeting but:
 
-1.  Complete [readings from field trip bibliography]({{< baseurl >}}/pages/readings/field-trip-readings)
+1.  Complete {{% resource_link 2f8808fd-883e-d6a9-21d4-1a3576060ba5 "readings from field trip bibliography" %}}
 2.  Prepare Lavine Lecture contributions
 
 
@@ -69,7 +73,7 @@ _MIT holiday_, no formal class meeting but:
 Minimalism, Monument, Money, Mortgage
 {{< tdclose >}}
 {{< tdopen >}}
-Workshop on [field trip readings]({{< baseurl >}}/pages/readings/field-trip-readings); run-through of Lavin lecture presentations
+Workshop on {{% resource_link 2f8808fd-883e-d6a9-21d4-1a3576060ba5 "field trip readings" %}}; run-through of Lavin lecture presentations
 {{< tdclose >}}
 
 {{< trclose >}}

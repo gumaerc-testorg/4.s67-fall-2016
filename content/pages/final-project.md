@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains details about the midterm and final projects as
+  well as due dates. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Projects
 uid: 85296620-ef15-ea8f-1917-f34de1a7423f
 ---
@@ -7,7 +11,7 @@ uid: 85296620-ef15-ea8f-1917-f34de1a7423f
 \[Field Trip Documentary\]
 --------------------------
 
-[![MIT4_S67F16_sky.jpg]({{< resource_file f4391ef8-dfdc-9858-57a3-6e6f9228defc >}})](https://youtu.be/aP4PWnEzFPQ)
+{{< resource uuid="f4391ef8-dfdc-9858-57a3-6e6f9228defc" href="https://youtu.be/aP4PWnEzFPQ" >}}
 
 Students who participated in the field trip created a [collective video, _Travelogue of the Undocumentable_](https://youtu.be/aP4PWnEzFPQ), which documented their trip to Utah, Arizona, New Mexico and Texas. An accompanying [blog post](http://arts.mit.edu/notes-field-outside-looking/) is available at the Arts at MIT website.
 

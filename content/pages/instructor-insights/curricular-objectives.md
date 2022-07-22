@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: "In this section Dr. Rebecca Uchill shares what she hoped the curriculum\
+  \ in 4.S67 Landscape Experience: Seminar in Land/Art would accomplish\u2014for both\
+  \ students and a wider audience."
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 title: Curricular Objectives
 uid: ef5df0b9-b80f-a147-78fd-4db84bf871e1

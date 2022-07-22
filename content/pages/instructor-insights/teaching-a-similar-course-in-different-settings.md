@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: 'In this section Dr. Rebecca Uchill discusses her hope that educators
+  will teach courses similar to 4.S67 Landscape Experience: Seminar in Land/Art in
+  different settings. She suggests two models for developing field-based land art
+  and landscape courses. '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 title: Teaching a Similar Course in Different Settings
 uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
@@ -19,7 +26,7 @@ Image Gallery: Land Art and Landscapes from the Optional Course Field Trip
 --------------------------------------------------------------------------
 
 All photos courtesy of Jessica Varner and used with permission.
-{{< image-gallery id="9090fc69-c928-1870-cc73-b26dea0b96d2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-s67-landscape-experience-seminar-in-land-art-fall-2016/" >}}
+{{< image-gallery id="9090fc69-c928-1870-cc73-b26dea0b96d2_nanogallery2" baseUrl="/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/" >}}
 {{< image-gallery-item href="7d85792b775d9e45208f621d538ee444_White-Sands-missile-range.jpg" data-ngdesc="New image Upload" text="A visit to the White Sands Missile Range and the Trinity Site brought much debate to the technical aspects of landscape. Pictured here is the monument students visited on the site of the nuclear test from July 16th, 1945." >}}
 {{< image-gallery-item href="c7f5a5e6069ea506480a33621528754c_Chinati-complex.jpg" data-ngdesc="New image Upload" text="Donald Judd details at Marfa. The visit included a tour of the Chinati complex (this window/door is in the old wool factory)." >}}
 {{< image-gallery-item href="596cccef4350569db99d633354b15e66_Judd-foundation-adobe.jpg" data-ngdesc="New image Upload" text="Adobe details at the Judd Foundation." >}}
