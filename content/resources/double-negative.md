@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo of the land art, Double Negative, which features a deep trench
     in the earth.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: double-negative.jpg
 uid: 4899375b-4332-edb9-f2cf-c7fac94eac59
 ---
 New image Upload
-

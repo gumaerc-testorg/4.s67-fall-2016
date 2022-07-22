@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A photo of a ceiling with a square opening revealing blue skies and clouds
     above.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Skyspace.jpg
 uid: 0d9e64a6-dead-2a9f-85b0-ddedd95c7922
 ---
 New image Upload
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: A photo of the art installation, Prada Marfa.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Prada-Marfa.jpg
 uid: 93079099-6a99-9bc2-1c5e-b02434acef74
 ---
 New image Upload
-

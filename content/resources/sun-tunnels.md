@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photograph of the art installation, Sun Tunnels, which are comprised
     of large, concrete tubes with holes drilled to mimic constellations.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: sun-tunnels.jpg
 uid: 42d90b87-45fe-e18d-0712-8576c1666ef7
 ---
 New image Upload
-
