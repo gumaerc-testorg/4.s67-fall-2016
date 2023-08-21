@@ -47,7 +47,9 @@
     "content": "4208f805-4ef7-62b9-08c1-9f992ac31e90",
     "website": "4-s67-landscape-experience-seminar-in-land-art-fall-2016"
   },
-  "learning_resource_types": [],
-  "site_uid": "5528793b-d8ce-4ca5-a543-a0520b8db2a1",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "546b3f0e-3cca-490c-8190-68bbf9cd142c",
   "title": "Course Metadata"
 }
