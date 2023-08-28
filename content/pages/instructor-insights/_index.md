@@ -11,7 +11,7 @@ uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 ---
 ## Course Overview
 
-This page focuses on the course _4.S67 Landscape Experience: Seminar in Land/Art_ as it was taught by Dr. Rebecca K. Uchill and Professor Caroline Jones in Fall 2016.
+This page focuses on the course *4.S67 Landscape Experience: Seminar in Land/Art* as it was taught by Dr. Rebecca K. Uchill and Professor Caroline Jones in Fall 2016.
 
 This seminar explored “land” as a genre, theme, and medium of art and architecture of the last five decades. Focusing largely on work in the United States, the course sought to understand how the use of land in art and architecture is bound into complicated entanglements of property and power, the inheritances of non-U.S. traditions, and how the term “landscape” is variously deployed in the service of a range of political and philosophical positions.
 
@@ -21,7 +21,7 @@ A final research paper or project equivalent was the capstone of the course.
 
 ## Course Outcomes
 
-_Course Goals for Students_
+*Course Goals for Students*
 
 - Understand that landscape is everywhere, and is a construct of our (and others’) subjectivities.
 - Understand that "landscape" is both contested and political.
@@ -34,10 +34,10 @@ _Course Goals for Students_
 
 {{< quote "Documentation can't convey the full contours of experiences—the wind, the smells, the scale, the memories, and so on." "—Dr. Rebecca Uchill" >}}
 
-_In the following pages, Dr. Rebecca Uchill describes various aspects of how she taught_ 4.S67 Landscape Experience: Seminar in Land/Art.
+*In the following pages, Dr. Rebecca Uchill describes various aspects of how she taught* 4.S67 Landscape Experience: Seminar in Land/Art.
 
-- {{% resource_link ef5df0b9-b80f-a147-78fd-4db84bf871e1 "Curricular Objectives" %}}
-- {{% resource_link 9090fc69-c928-1870-cc73-b26dea0b96d2 "Teaching a Similar Course in Different Settings" %}}
+- {{% resource_link "ef5df0b9-b80f-a147-78fd-4db84bf871e1" "Curricular Objectives" %}}
+- {{% resource_link "9090fc69-c928-1870-cc73-b26dea0b96d2" "Teaching a Similar Course in Different Settings" %}}
 
 ## Curriculum Information
 
@@ -74,7 +74,7 @@ Mostly graduate students
 
 ### Breakdown by Major
 
-Mostly the [MIT Program in Art, Culture, and Technology](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/architecture-and-urbanism/degree/march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/discipline/history-theory-and-criticism) (HTC)
+Mostly the [MIT Program in Art, Culture, and Technology](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/graduate-programs#march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/history-theory-criticism) (HTC)
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
