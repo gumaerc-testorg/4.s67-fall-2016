@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/0d9e64a6dead2a9f85b0ddedd95c7922_Skyspace.jpg
+file_size: 25475
 file_type: image/jpeg
 image_metadata:
   caption: James Turrell Skyspace on the Rice University Campus. After a chat from
