@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/e73d44a1845ff101b86623e9c7ae9139_Judd-compound.jpg
+file_size: 47526
 file_type: image/jpeg
 image_metadata:
   caption: Channeling Donald Judd at the Judd compound.

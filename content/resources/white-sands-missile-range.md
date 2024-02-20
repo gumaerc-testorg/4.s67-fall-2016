@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/7d85792b775d9e45208f621d538ee444_White-Sands-missile-range.jpg
+file_size: 41970
 file_type: image/jpeg
 image_metadata:
   caption: A visit to the White Sands Missile Range and the Trinity Site brought much

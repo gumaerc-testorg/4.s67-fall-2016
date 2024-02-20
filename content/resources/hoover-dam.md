@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/162307eac5fb57882c7edd4911c9ae2d_Hoover-Dam.jpg
+file_size: 56941
 file_type: image/jpeg
 image_metadata:
   caption: "As part of the Landscape Experience class, infrastructure\u2014such as\
