@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/ad0380a726a8e117199e8d6e5757e003_Enola-Gay-Hangar.jpg
+file_size: 36933
 file_type: image/jpeg
 image_metadata:
   caption: The Enola Gay "hangar," CLUI research center, and Wendover, Utah visit
