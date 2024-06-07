@@ -38,8 +38,6 @@ On airport wifi (i.e. before departure)
 
 [The Center for Land Use Interpretation (CLUI) Land Use Database](http://clui.org/ludb)
 
-[SacredSites mobile app](http://www.sacredsitesapp.com/index.html)
-
 [Very Large Array](https://public.nrao.edu/telescopes/vla/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
