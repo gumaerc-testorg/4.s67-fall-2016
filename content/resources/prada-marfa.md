@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/930790996a999bc21c5eb02434acef74_Prada-Marfa.jpg
+file: /ol-ocw-studio-app/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/930790996a999bc21c5eb02434acef74_Prada-Marfa.jpg
 file_size: 55451
 file_type: image/jpeg
 image_metadata:
