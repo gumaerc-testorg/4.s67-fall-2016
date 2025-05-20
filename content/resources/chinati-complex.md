@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/c7f5a5e6069ea506480a33621528754c_Chinati-complex.jpg
+file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/c7f5a5e6069ea506480a33621528754c_Chinati-complex.jpg
 file_size: 41407
 file_type: image/jpeg
 image_metadata:
