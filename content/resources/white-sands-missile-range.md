@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/7d85792b775d9e45208f621d538ee444_White-Sands-missile-range.jpg
+file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/7d85792b775d9e45208f621d538ee444_White-Sands-missile-range.jpg
 file_size: 41970
 file_type: image/jpeg
 image_metadata:
