@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/6cc58155bea365ac973e20e7cd55af37_MIT4_S67F16_bus.jpg
+file: /ol-ocw-studio-app/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/6cc58155bea365ac973e20e7cd55af37_MIT4_S67F16_bus.jpg
 file_size: 18954
 file_type: image/jpeg
 image_metadata:
