@@ -13,7 +13,7 @@ uid: 85296620-ef15-ea8f-1917-f34de1a7423f
 
 {{< resource uuid="f4391ef8-dfdc-9858-57a3-6e6f9228defc" href="https://youtu.be/aP4PWnEzFPQ" >}}
 
-Students who participated in the field trip created a [collective video, _Travelogue of the Undocumentable_](https://youtu.be/aP4PWnEzFPQ), which documented their trip to Utah, Arizona, New Mexico and Texas. An accompanying [blog post](http://arts.mit.edu/notes-field-outside-looking/) is available at the Arts at MIT website.
+Students who participated in the field trip created a {{% resource_link "c3f1d4c2-38e6-4d5c-bd7e-37a7546598a1" "collective video, _Travelogue of the Undocumentable_" %}}, which documented their trip to Utah, Arizona, New Mexico and Texas. An accompanying {{% resource_link "310283c0-9766-42ee-b81c-4f1648e330b2" "blog post" %}} is available at the Arts at MIT website.
 
 Final Project Assignments
 -------------------------
