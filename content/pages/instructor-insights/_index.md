@@ -74,7 +74,7 @@ Mostly graduate students
 
 ### Breakdown by Major
 
-Mostly the [MIT Program in Art, Culture, and Technology](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/graduate-programs#march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/history-theory-criticism) (HTC)
+Mostly the {{% resource_link "82b17cf4-b0f9-4996-95aa-6b081a4657b1" "MIT Program in Art, Culture, and Technology" %}} (ACT), {{% resource_link "170ff921-1647-433c-8f64-a2b5de110968" "Master of Architecture" %}} (MArch), and {{% resource_link "28d033d9-674b-498f-97e4-e4abf2694693" "History, Theory and Criticism of Architecture and Art" %}} (HTC)
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
@@ -86,7 +86,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Met 1 time per week for 3 hours per session; 12 sessions total; mandatory attendance.
 - Students were assigned specific weeks in which they worked as a team to present a guiding question or questions to tie together the assigned readings and to orient the class discussions.
-- The List Visual Arts Center annual [Lavine Lecture](https://listart.mit.edu/events-programs/public-program-lavine-lecture) was programmed in explicit connection with the course and students worked together to create a visually dynamic 10-minute presentation during the public lecture.
+- The List Visual Arts Center annual {{% resource_link "c5c6b755-402e-4a8b-8810-e1a80d59e245" "Lavine Lecture" %}} was programmed in explicit connection with the course and students worked together to create a visually dynamic 10-minute presentation during the public lecture.
 
 ### Out of Class
 
